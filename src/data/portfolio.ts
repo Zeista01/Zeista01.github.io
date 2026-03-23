@@ -142,11 +142,11 @@ export const experience = [
     tech: ["MATLAB", "Simulink", "LQR", "Quanser QBot", "Inverse Kinematics", "Embedded Control"],
   },
   {
-    role: "Robotics Member",
+    role: "Project Head",
     company: "IvLabs — VNIT Nagpur",
     period: "2023 — Present",
     description:
-      "Active member of IvLabs, VNIT's robotics research group. Conducted Python and OpenCV workshops for incoming freshers, introducing them to computer vision fundamentals. Showcased the Bipedal Robot at the C.V. Raman Expo, demonstrating inverse kinematics and COM-based stabilization to a broad technical audience.",
+      "Project Head of IvLabs, VNIT's robotics research group. Conducted Python and OpenCV workshops for incoming freshers, introducing them to computer vision fundamentals. Showcased the Bipedal Robot at the C.V. Raman Expo, demonstrating inverse kinematics and COM-based stabilization to a broad technical audience.",
     tech: ["Python", "OpenCV", "Robotics", "Workshops", "Bipedal Robot"],
   },
 ];
